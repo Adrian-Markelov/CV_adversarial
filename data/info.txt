@@ -1,0 +1,2 @@
+Put data in this directory.
+*** ADD IT"S FILE TYPE TO THE .GITIGNORE file

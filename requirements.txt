@@ -2,7 +2,7 @@ tensorflow
 torch
 torchvision
 numpy
-scipy==1.4.1
+scipy==1.10.0
 scikit-learn==0.22.1
 skorch
 pandas
